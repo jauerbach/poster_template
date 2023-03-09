@@ -64,6 +64,8 @@ header-includes:
 We prove a \textcolor{GMUred}{\textbf{really}} important theorem. The theorem is important because:
 \end{flushleft}
 
+\vspace{2em}
+
 \Huge
   \begin{enumerate}
     \setlength\itemsep{.5em}
@@ -89,6 +91,8 @@ Let $X$ denote the set of all possible bagel toppings, and let $\Sigma$ denote a
 
 \end{flushleft}
 
+\vspace{1em}
+
 \Huge
   \begin{itemize}
     \setlength\itemsep{1em}
@@ -106,6 +110,8 @@ Let $X$ denote the set of all possible bagel toppings, and let $\Sigma$ denote a
 \begin{flushleft} 
 I would keep the conclusion simple. No additional technical details. For example:
 \end{flushleft} 
+
+\vspace{1em}
 
 \Huge
   \begin{itemize}
